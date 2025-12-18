@@ -2,3 +2,4 @@
 /.next
 /.next/*.json
 /.next/trace
+/package-lock.json
